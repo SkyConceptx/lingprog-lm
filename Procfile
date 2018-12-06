@@ -1,0 +1,1 @@
+gunicorn lingprog.wsgi --log-file -
